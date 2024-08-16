@@ -9,7 +9,7 @@ public void abstractExample()
 }
 public void display() {
 	
-	System.out.println("my");
+	System.out.println("hi");
 	
 }
 
